@@ -43,7 +43,7 @@
                 <Grid BackgroundColor="Gray" Grid.Column="3">
                     <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
                         <Label Text="{Binding wind.speed}"  FontSize="20" TextColor="White" />
-                        <Label Text="Wind Speed" TextColor="White"  FontSize="15"/>
+                        <Label Text="Wind Speed" TextColor="White"  FontSize="14"/>
                     </StackLayout>
                 </Grid>
             </Grid>
